@@ -1,0 +1,67 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EXPERIENCE THE BEST OBS SETTINGS OPTIMIZED FOR FULLEST QUALITY SETTINGS
+
+Records in .mkv in case a crash happens while you're recording — it’ll save the recording up to the crash point.  
+(Use OBS Remux feature to encode over to .mp4 after.)  
+
+Recordings are high in storage consumption because these are the BEST recording settings.  
+Suggest using Handbrake:  
+https://handbrake.fr  
+
+Also includes a collection of Scenes.  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HOW TO IMPORT OBS SETTINGS:
+
+— Click the Profile tab at the top of OBS  
+
+— Select Import  
+
+— Import the file  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HOW TO IMPORT SCENE COLLECTION:
+
+— Click the Scene Collection tab at the top of OBS  
+
+— Select Import  
+
+— Import the file  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Find more of my creations on Github:  
+https://github.com/landnthrn?tab=repositories  
+
+Support me on Buy Me a Coffee  
+https://buymeacoffee.com/landn.thrn  
+
+Paypal Donation:  
+https://www.paypal.com/donate/?hosted_button_id=K4PLHFVBH7X8C  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
