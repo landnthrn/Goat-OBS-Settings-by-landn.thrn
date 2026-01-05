@@ -1,17 +1,30 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-EXPERIENCE THE BEST OBS SETTINGS OPTIMIZED FOR FULLEST QUALITY SETTINGS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Records in .mkv in case a crash happens while you're recording — it’ll save the recording up to the crash point.  
-(Use OBS Remux feature to encode over to .mp4 after.)  
+TRUE HIGH QUALITY OBS SETTINGS & FULL COLLECTION OF SCENES
+by landn.thrn
 
-Recordings are high in storage consumption because these are the BEST recording settings.  
-Suggest using Handbrake:  
-https://handbrake.fr  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Also includes a collection of Scenes.  
+Records in .mkv incase a crash happens while you're recording then it'll save the recording up to the crash point.  
+*(Use OBS Remux feature to encode over to .mp4 after)*  
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Recordings are high in storage consumption as a cost of true high quality settings.  
+Highly suggest using Handbrake if you ever want to compress file sizes — https://handbrake.fr
+
+COLLECTION OF SCENES:
+— Screen + Cam + Mic + PC Audio  
+— Screen + Mic + PC Audio
+— Screen + PC Audio
+— Screen + Mic
+— Screen
+— Cam + Mic + PC Audio
+— Cam + Mic
+— Cam
+— Mic 
+— PC Audio
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 HOW TO IMPORT OBS SETTINGS:
 
@@ -21,7 +34,7 @@ HOW TO IMPORT OBS SETTINGS:
 
 — Import the file  
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 HOW TO IMPORT SCENE COLLECTION:
 
