@@ -1,12 +1,23 @@
-## Experience the Best OBS Settings Optimized for Fullest Quality Settings  
+## True High Quality OBS Settings & Full Collection of Scenes
 
-Records in .mkv incase a crash happens while you're recording then it'll save the recording up to the crash point  
-*(use OBS Remux feature to encode over to .mp4 after)*  
+Records in .mkv incase a crash happens while you're recording then it'll save the recording up to the crash point.  
+*(Use OBS Remux feature to encode over to .mp4 after)*  
 
-Recordings are high in storage consumption cause its the BEST recording settings  
-Suggest using [Handbrake](https://handbrake.fr) if you ever want to compress file sizes  
+Recordings are high in storage consumption as a cost of true high quality settings.  
+Highly suggest using [Handbrake](https://handbrake.fr) if you ever want to compress file sizes.  
+ 
 
-Also includes a collection of Scenes  
+# Collection of Scenes
+- **Screen + Cam + Mic + PC Audio**  
+- **Screen + Mic + PC Audio**  
+- **Screen + PC Audio**  
+- **Screen + Mic**  
+- **Screen**  
+- **Cam + Mic + PC Audio**  
+- **Cam + Mic**  
+- **Cam**  
+- **Mic**  
+- **PC Audio**
 
 ---
 
