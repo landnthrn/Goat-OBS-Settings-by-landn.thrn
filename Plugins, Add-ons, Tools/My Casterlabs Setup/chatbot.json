@@ -1,0 +1,10 @@
+{
+    "timerIntervalSeconds": 300,
+    "shouts": [],
+    "timers": [],
+    "chatbots": [],
+    "chatter": "SYSTEM",
+    "store": {},
+    "commands": [],
+    "hideFromChat": false
+}

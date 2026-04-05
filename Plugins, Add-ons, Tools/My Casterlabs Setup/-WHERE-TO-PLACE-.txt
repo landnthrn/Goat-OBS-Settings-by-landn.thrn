@@ -1,0 +1,4 @@
+
+
+If you have Casterlabs installed, copy & replace files into this location:
+C:\Users\%USERNAME%\AppData\Roaming\casterlabs-caffeinated\preferences

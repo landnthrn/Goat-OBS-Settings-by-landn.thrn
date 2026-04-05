@@ -1,0 +1,55 @@
+{
+    "emojiProvider": "twemoji",
+    "chatViewerPreferences": {
+        "readMessagesAloud": false,
+        "colorBy": "PLATFORM",
+        "textSize": 0.93,
+        "showPlatform": true,
+        "playDingOnMessage": false,
+        "showPronouns": false,
+        "showProfilePictures": false,
+        "showViewers": false,
+        "showBadges": true,
+        "showActivities": false,
+        "ttsVoice": "Brian",
+        "inputBoxPreferences": {
+            "platform": null
+        },
+        "ttsOrDingVolume": 0.68,
+        "showBadgesOnLeft": false,
+        "showChatTimestamps": true,
+        "showZebraStripes": false
+    },
+    "sidebarClosed": false,
+    "icon": "casterlabs",
+    "mainDashboard": {
+        "contents": {
+            "0,0": "co.casterlabs.dock.stream_chat.dock"
+        },
+        "v": [],
+        "h": []
+    },
+    "language": "EN_US",
+    "zoom": 1.0,
+    "enableStupidlyUnsafeSettings": false,
+    "enableAlternateThemes": false,
+    "activityViewerPreferences": {
+        "colorBy": "THEME",
+        "textSize": 1.0,
+        "showTimestamps": true,
+        "showPlatform": false,
+        "showPronouns": false,
+        "showProfilePictures": false,
+        "showZebraStripes": false
+    },
+    "uiFont": "",
+    "dockDashboard": {
+        "contents": {
+            "0,0": "welcomewagon"
+        },
+        "v": [],
+        "h": []
+    },
+    "closeToTray": true,
+    "theme": "co.casterlabs.dark"
+}
