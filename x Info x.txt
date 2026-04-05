@@ -20,7 +20,7 @@ INCLUDES:
 
 — Scene collections for all device use cases, supporting uni & dual monitor setups. 
 
-— Curated profiles so you can easily switch between ULTRA, HIGH, MEDIUM, LOW, or VERY LOW of quality/size
+— Curated setting profiles so you can easily switch between ULTRA, HIGH, MEDIUM, LOW, or VERY LOW of quality/size
 
 — Useful filters pre-configured on certain source devices, such as audio enhancement.
 
@@ -77,7 +77,7 @@ UNI-MONITOR COLLECTION:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-PROFILES / SETTING MODES:
+SETTING PROFILES:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

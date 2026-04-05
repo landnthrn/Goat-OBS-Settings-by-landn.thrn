@@ -5,7 +5,7 @@ HOW TO SETUP
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-STEP 1: HOW TO IMPORT PROFILES:
+STEP 1: HOW TO IMPORT SETTING PROFILES:
 
 — Click the Profile tab at the top of OBS  
 
@@ -93,11 +93,18 @@ STEP 5. ADJUST FOR YOUR SETUP:
    Right click the sources in the `BACKGROUNDS` scene, select Properties > Browse and point the missing media files to the location you have the WebCam Backdrop videos downloaded 
   (wherever you always plan to keep them, otherwise you'll need to repoint again)
   
-— (If streamer) In OBS Settings > Output tab, adjust streaming bitrate according to the platform(s) you stream on:
-  Twitch = 6000-8000 Kpbs
-  Youtube = 10000 Kpbs
-  Kick = 8000-10000 Kpbs
-  Most others = 8000-10000 Kpbs
+— In OBS Settings > Output tab, 
+
+  - Adjust streaming bitrate according to the platform(s) you stream on:
+    Twitch = 6000-8000 Kpbs
+    Youtube = 10000 Kpbs
+    Kick = 8000-10000 Kpbs
+    Most others = 8000-10000 Kpbs
+
+  - If your GPU is not NVIDIA change Video Encoder to x264. If you see more options, research what's best for your GPU.
+    Make sure to do this for recording tab as well.
+
+  - Repeat this for all profiles to keep them synced!
 
 — In OBS Settings > Video tab,
 
@@ -106,7 +113,7 @@ STEP 5. ADJUST FOR YOUR SETUP:
 
   - Also in Video tab, adjust the frame rate to your liking
 
-  - Save & repeat this for each profile to keep them synced!
+  - Repeat this for all profiles to keep them synced!
 
 — Right click `MIC` source > Filters, 
 
