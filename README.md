@@ -1,10 +1,10 @@
 # GOAT OBS SETUP
 
-A complete OBS Setup carefully configured to ensure a proper setup for recording or streaming, in many different use cases  
+![OBS-Setup-Preview](https://github.com/user-attachments/assets/a912429d-ba68-4cb3-8909-c91f645d164e)
 
-Collections of scenes, setting profiles for different quality/size levels, webcam backdrops, plugins & add-ons, and simple mini guides along the way  
 
-Records in `.mkv` to ensure a crash won't corrupt your active recording Automatically remuxes to `.mp4` once recording ends  
+A complete OBS Setup carefully configured for many use cases in recording, streaming, and virtual cameras.
+Collections of scenes, setting profiles for different quality/size levels, webcam backdrops, plugins & add-ons, and simple mini guides along the way. Records in `.mkv` to ensure a crash won't corrupt your active recording, and automatically remuxes to `.mp4` once recording ends.  
 
 ---
 
@@ -14,7 +14,7 @@ Records in `.mkv` to ensure a crash won't corrupt your active recording Automati
 
 - Scene collections for all device use cases, supporting uni & dual monitor setups  
 
-- Curated profiles so you can easily switch between **ULTRA, HIGH, MEDIUM, LOW, or VERY LOW** of quality/size  
+- Curated setting profiles so you can easily switch between **ULTRA, HIGH, MEDIUM, LOW, or VERY LOW** of quality/size  
 
 - Useful filters pre-configured on certain source devices, such as audio enhancement  
 
@@ -69,7 +69,7 @@ Records in `.mkv` to ensure a crash won't corrupt your active recording Automati
 
 ---
 
-## PROFILES / SETTING MODES:
+## SETTING PROFILES:
 
 ### ULTRA
 
@@ -175,26 +175,26 @@ Records in `.mkv` to ensure a crash won't corrupt your active recording Automati
 
 ## SUGGESTED PLUGINS / ADD-ONS / TOOLS
 
-- ### [WebCam Backdrops Collection](https://drive.google.com/file/d/1xXz3OhqebLkwBnuE3A5Hb1OiN8m0CoOK/view?usp=sharing)
+- [WebCam Backdrops Collection](https://drive.google.com/file/d/1xXz3OhqebLkwBnuE3A5Hb1OiN8m0CoOK/view?usp=sharing)  
 Collection of webcam backgrounds
 
-- ### [Casterlabs](https://casterlabs.co)
+- [Casterlabs](https://casterlabs.co)  
 Streaming - Chat, widgets, alerts, & more
 
-- ### [Handbrake](https://handbrake.fr)
+- [Handbrake](https://handbrake.fr)  
 Compress/downsize video files, seperate application
 
-- ### [Streamfog](https://streamfog.com)
+- [Streamfog](https://streamfog.com)  
 The impressive alternative to the old Snapcamera, face/camera filters & real-time AR effects
 
-- ### [Live AI Face Swap](https://github.com/hacksider/Deep-Live-Cam)
+- [Live AI Face Swap](https://github.com/hacksider/Deep-Live-Cam)  
 Runs a local AI model on your computer to generate accurate faceswaps with any face to yours  
 They offer a free version which is unlimited, but a techy setup not easy for beginners
 
-- ### [Zoom to Mouse.lua](https://github.com/BlankSourceCode/obs-zoom-to-mouse)
+- [Zoom to Mouse.lua](https://github.com/BlankSourceCode/obs-zoom-to-mouse)  
 Camera zooms and smoothly follows/live tracks your mouse around a screen
 
-- ### [NVIDIA Broadcast Download Resources](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+- [NVIDIA Broadcast Download Resources](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)  
 *(For NVIDIA Users)* Likely the most effective options for effects/filters like background removal, and audio enhancement
 
 ---
