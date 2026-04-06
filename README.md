@@ -1,6 +1,6 @@
 # GOAT OBS SETUP
 
-![OBS-Setup-Preview](https://github.com/user-attachments/assets/a912429d-ba68-4cb3-8909-c91f645d164e)
+![OBS-Setup-Preview](https://github.com/user-attachments/assets/df0b5762-af43-4c2a-bce4-fb6775573012)
 
 
 A complete OBS Setup carefully configured for many use cases in recording, streaming, and virtual cameras.
