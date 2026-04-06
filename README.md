@@ -10,7 +10,7 @@ Collections of scenes, setting profiles for different quality/size levels, webca
 
 ## INCLUDES:
 
-- Full streaming & recording setups  
+- Full streaming, recording, and virtual camera setups  
 
 - Scene collections for all device use cases, supporting uni & dual monitor setups  
 
